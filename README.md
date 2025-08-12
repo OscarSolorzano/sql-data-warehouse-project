@@ -23,7 +23,7 @@ This project involves:
 ---
 
 ## 🛠️ Data Sets:
-
+The datases used where provided from:
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
 
 ## 🚀 Project Requirements
